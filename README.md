@@ -1,8 +1,12 @@
-# Team Appendly: Leaf Infection Detection
+🌿🍃 # Team Appendly: Leaf Infection Detection 🍀🌿
 
 ### Run:
 * create a virtualenv
-* run these commands
+```
+virtualenv venv
+cd venv\Scripts && activate
+```
+* run:
 ```
 pip install -r requirements.txt
 python app.py
