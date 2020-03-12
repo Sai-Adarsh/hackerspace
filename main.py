@@ -227,14 +227,11 @@ def prediction(image):
 				writer.writerow(L)
 				
 				file.close(File)
-		finally:		
-			from classifier import classification
-			prediction = classification()
+		finally:
 			data = {
 				"totalarea": str(Tarea),
 				"infectedarea": str(Infarea),
-				"percentage": float(per),
-				"prediction": prediction
+				"percentage": float(per)
 			}
 			break
 	return data
