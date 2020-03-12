@@ -4,7 +4,7 @@
 * create a virtualenv
 * run these commands
 ```
-pip install -r requirements.txt \
+pip install -r requirements.txt
 python app.py
 ```
 
