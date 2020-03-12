@@ -1,4 +1,4 @@
-🌿🍃 # Team Appendly: Leaf Infection Detection 🍀🌿
+# 🌿🍃 Team Appendly: Leaf Infection Detection 🍀🌿
 
 ### Run:
 * create a virtualenv
